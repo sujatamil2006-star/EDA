@@ -164,3 +164,11 @@ jupyter notebook Telco_Customer_Churn_EDA_DeepLearning.ipynb
 - **Source link:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - **Local copy:** [dataset/telco_customer_churn.csv](dataset/telco_customer_churn.csv)
 - **Size:** 7,043 customers, 21 features (target: Churn)
+
+## Dataset
+
+- **Name:** Telco Customer Churn (IBM sample dataset)
+- **Source (IBM GitHub):** https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv
+- **Direct download:** https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+- **Local copy:** [dataset/telco_customer_churn.csv](dataset/telco_customer_churn.csv)
+- **Size:** 7,043 customers, 21 features (target: Churn)

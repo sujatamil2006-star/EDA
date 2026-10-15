@@ -157,3 +157,10 @@ jupyter notebook Telco_Customer_Churn_EDA_DeepLearning.ipynb
 * **Assignment:** II (Academic Year 2026 - 2027)
 * **Department:** Artificial Intelligence and Data Science
 * **Institution:** KPR Institute of Engineering and Technology
+
+## Dataset
+
+- **Name:** Telco Customer Churn (IBM Watson Analytics sample dataset)
+- **Source link:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- **Local copy:** [dataset/telco_customer_churn.csv](dataset/telco_customer_churn.csv)
+- **Size:** 7,043 customers, 21 features (target: Churn)
